@@ -1,0 +1,80 @@
+        <style>
+        div { background-color: antiquewhite; }
+        body {
+            background-color: antiquewhite;
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: 50% 50%;
+          background-position: center;
+          margin-top: 100px;
+          margin-bottom: 100px;
+          margin-right: 80px;
+          margin-left: 80px;
+          background-image: url('BackgroundSofi.png');
+        }
+        .demopara {
+  font-size: large;
+  line-height: 1.5;
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(151, 100, 48);
+  text-shadow: -1px 0 rgba(97, 65, 23, 0.205), 0 1px rgba(97, 65, 23, 0.205), 1px 0 rgba(97, 65, 23, 0.205), 0 -1px rgba(97, 65, 23, 0.205);
+  text-align: center;
+}
+
+.domopara {
+  font-size: large;
+  line-height: 1.5;
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(151, 100, 48);
+  text-shadow: -1px 0 rgba(97, 65, 23, 0.205), 0 1px rgba(97, 65, 23, 0.205), 1px 0 rgba(97, 65, 23, 0.205), 0 -1px rgba(97, 65, 23, 0.205);
+}
+
+.start {
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(151, 100, 48);
+  text-align: center; 
+  text-shadow: 0 0 3px #7e501b;
+}
+
+.stuart {
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(151, 100, 48);
+  text-align: center; 
+  text-shadow: 0 0 3px #7e501b;
+  width: 1150px;
+  border: 7px solid rgb(151, 100, 48);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-shadow: 2px 2px 5px rgb(177, 150, 78);
+  float: right;
+  margin-left: 60px;
+}
+
+.two {
+  font-size: xxx-large;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(151, 100, 48);
+  text-align: center;
+   width: 1150px;
+  border: 7px solid rgb(151, 100, 48);
+  text-shadow: 0 0 3px #7e501b;
+}
+
+.div {
+width: 90%;
+margin-left: 20%;
+}
+        </style>
